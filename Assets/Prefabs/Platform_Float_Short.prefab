@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4770047086473980}
   - component: {fileID: 212633142910270682}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Tile (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -37,7 +37,7 @@ GameObject:
   - component: {fileID: 4325579127797110}
   - component: {fileID: 212939831890782908}
   - component: {fileID: 70812037704246728}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Platform_Float_Short
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53,7 +53,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4128395200759362}
   - component: {fileID: 212924759203108594}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Tile (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
